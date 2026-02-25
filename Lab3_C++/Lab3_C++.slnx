@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Lab3_C++/Lab3_C++.vcxproj" Id="049ac30e-2911-450c-9e80-a760140cb49d" />
+  <Project Path="Triangle_Class_lib/Triangle_Class_lib.vcxproj" Id="02012aa4-b895-4400-8c61-8b9bf72b7d35" />
+</Solution>
